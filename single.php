@@ -24,7 +24,7 @@
 
 	<?php comments_template(); ?>
 
-	<?php endwhile; endif; ?> <!--tes-->
+	<?php endwhile; endif; ?>
 	
 <?php get_sidebar(); ?>
 
